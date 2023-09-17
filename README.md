@@ -1,7 +1,7 @@
 # TEM-image-processing
 Supplementary data for paper published on Materials Characterization
 
-Cite this paper if you leverage the AI techniques we showed: 
+Cite this paper if you get inspired from this paper: 
 
 Liu, S., Amin-Ahmadi, B., Liu, R., Zheng, Q., & Zhang, X. (2023). Automated phase segmentation and quantification of high-resolution TEM image for alloy design. Materials Characterization, 199, 112779.
 
