@@ -1,5 +1,5 @@
 # TEM-image-processing
-Supplementary data for paper
+Supplementary data for paper published on Materials Characterization
 
 Cite this paper if you leverage the AI techniques we showed: 
 
