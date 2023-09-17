@@ -8,7 +8,7 @@ Liu, S., Amin-Ahmadi, B., Liu, R., Zheng, Q., & Zhang, X. (2023). Automated phas
 Title:
 Automated Phase Segmentation and Quantification of High-resolution TEM Image for Alloy Design
 
-Contact: senliu0517@gmail.com; sen.liu@louisiana.edu
+Contact: sen.liu@louisiana.edu;  senliu@slac.stanford.edu
 
 Current institution: Department of Mechanical Engineering, University of Louisiana at Lafayette
 
