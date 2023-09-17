@@ -1,22 +1,10 @@
 # TEM-image-processing
-code and image data supplementary
+Supplementary data for paper
 
-The files are in organizing and will be soon published here, feel free to contact corresponding authors at the point of you need as below. 
-
-Journal: Materials Characterization
-
-Ref. No.: MATERIALSCHAR-D-22-03853 
-
-Title 
+Title:
 Automated Phase Segmentation and Quantification of High-resolution TEM Image for Alloy Design
 
-Authors
-Sen Liua,b,c*, Behnam Amin-ahmadia,b,d, Rui Liu,e, Qiaojie Zhenga,b, Xiaoli Zhanga,b*
-*E-mail: senliu@stanford.edu; xlzhang@mines.edu
+Citation:
+Liu, S., Amin-Ahmadi, B., Liu, R., Zheng, Q., & Zhang, X. (2023). Automated phase segmentation and quantification of high-resolution TEM image for alloy design. Materials Characterization, 199, 112779.
 
-Affiliations 
-a Mechanical Engineering, Colorado School of Mines, Golden, CO 80401 USA
-b The Alliance for the Development of Additive Processing Technologies, Colorado School of Mines, Golden, CO 80401 USA
-c Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Stanford University, Menlo Park, CA 94025, USA
-d Confluent Medical Technologies, Fremont, CA 94539, USA
-e Cognitive Robotics and AI Lab (CRAI), College of Aeronautics and Engineering, Kent State University, Kent, OH 44240, USA
+Contact: Cite this paper if you leverage the AI techniques we showed. Contact: senliu0517@gmail.com
